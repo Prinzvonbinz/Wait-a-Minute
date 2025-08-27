@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5dc; /* entspannter Beigeton */
+  font-family: Arial, sans-serif;
+}
+
+#timer {
+  font-size: 6rem;
+  font-weight: bold;
+  color: black;
+}
